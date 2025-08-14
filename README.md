@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat-Application
 Java Socket Programming
 
@@ -9,3 +10,7 @@ Java Socket Programming
 * Java Socket Programming
 
 ![Screenshot from 2022-09-12 15-41-53](https://user-images.githubusercontent.com/88975401/189648573-df2a78f5-b1bc-467c-94d0-6044564acd18.png)
+=======
+# AppChatJavaFx
+Application chat avec JavaFx, les sockets, et les threads
+>>>>>>> a574c9deea0d040b96fd14728226d0f86b83f111
